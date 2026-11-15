@@ -1,52 +1,70 @@
-# Olá! Eu sou Eudes Loureiro Fontes 👋
+# Olá, eu sou Eudes Loureiro Fontes! 
 
-**Gestão administrativa • Operações • Tecnologia e desenvolvimento de sistemas**
+**Gestão administrativa • Operações • Desenvolvimento Full Stack • Soluções para negócios**
 
-Sou um profissional com experiência em processos administrativos, gestão de treinamentos corporativos, relacionamento comercial e organização de operações. Também estudo e desenvolvo soluções digitais, buscando unir minha experiência de negócios à programação para simplificar rotinas e melhorar processos.
+Sou um profissional com experiência em gestão administrativa, operações, treinamentos corporativos e relacionamento com clientes empresariais. Desenvolvo sistemas web que ajudam a digitalizar processos e resolver necessidades operacionais reais.
 
-Meu interesse está na conexão entre **gestão, análise de dados e desenvolvimento de software**.
-
-## 💻 Tecnologias e ferramentas
-
-- **Linguagens e desenvolvimento:** JavaScript, TypeScript e fundamentos de desenvolvimento full stack.
-- **Banco de dados e infraestrutura:** PostgreSQL, Docker e Drizzle ORM.
-- **Dados e produtividade:** Excel avançado, Microsoft Access e Power BI.
-- **Ferramentas de trabalho:** VS Code, Git e GitHub.
-
-> Estas tecnologias representam conhecimentos e ferramentas que utilizo ou venho estudando; o nível de domínio varia conforme a tecnologia.
+Meu foco é unir **visão de negócio e desenvolvimento de software**, desde o levantamento de requisitos até a implantação e o suporte.
 
 ## 🚀 Projetos em destaque
 
-### FKL ONE — Gestão Inteligente | Em desenvolvimento
+### 🚲 BikeFlow | Sistema de Gestão de Bicicletário
 
-Projeto autoral de plataforma SaaS voltada à gestão de empresas de treinamento e seus processos administrativos e educacionais.
+**Idealizador e desenvolvedor | Projeto próprio | Sistema implantado**
 
-**Objetivo:** centralizar informações, otimizar fluxos de trabalho e facilitar o acompanhamento de treinamentos, participantes e certificados.
+Solução web de gestão e controle de bicicletários, desenvolvida e inicialmente implementada no **Shopping Vila Velha (ES)**.
 
-**Tecnologias utilizadas no desenvolvimento:** JavaScript, TypeScript, PostgreSQL, Docker e Drizzle ORM.
+**Funcionalidades:**
+- Cadastro e gerenciamento de usuários;
+- Registro de entrada e saída de bicicletas;
+- Identificação por senha, registro fotográfico e controle de ocorrências;
+- Controle de liberação de bicicletas;
+- Painel administrativo com indicadores operacionais, relatórios e acompanhamento em tempo real;
+- Migração e organização de dados históricos de um sistema anterior;
+- Interface responsiva para computadores e dispositivos móveis.
 
-**Frentes de desenvolvimento:** estrutura de dados, autenticação e perfis de acesso, organização de formadoras e evolução dos módulos administrativos.
+**Atuação no projeto:** levantamento das necessidades, definição de funcionalidades, desenvolvimento, implantação, suporte e relacionamento com o cliente.
 
-🔒 **Código-fonte privado por enquanto.** A documentação pública e eventuais demonstrações serão adicionadas conforme o desenvolvimento avançar.
+**Stack:** `React.js` · `Node.js` · `Express.js` · `MySQL` · `Tailwind CSS` · hospedagem web.
 
-### Soluções administrativas e análise de dados | Experiência profissional
+> 🔒 O sistema atende a uma operação real. Código-fonte, dados de usuários, credenciais e detalhes internos não são disponibilizados publicamente. Demonstrações e capturas de tela poderão ser publicadas apenas quando autorizadas e sem informações sensíveis.
 
-Atuação na organização de controles administrativos, formulários, planilhas, relatórios e painéis de acompanhamento, aliando necessidades operacionais a ferramentas digitais.
+### 🧩 FKL ONE | Gestão Inteligente
 
-*Exemplos e materiais demonstrativos poderão ser adicionados ao portfólio, respeitando a confidencialidade de dados empresariais.*
+**Idealizador e desenvolvedor | Plataforma SaaS em desenvolvimento**
 
-## 🎯 Áreas de interesse
+Projeto de plataforma web para gestão de empresas formadoras, treinamentos, alunos, turmas e processos de certificação.
 
-- Desenvolvimento de sistemas de gestão
-- Automação e melhoria de processos
-- Análise de dados e dashboards
-- Operações, treinamentos corporativos e tecnologia aplicada a negócios
+**Frentes de desenvolvimento:** estrutura multiempresa, modelagem de dados, autenticação e permissões, módulos administrativos e fluxos operacionais.
+
+**Stack:** `JavaScript` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `Docker`.
+
+> 🔒 Projeto em evolução, com código-fonte privado por enquanto.
+
+### 📊 Soluções administrativas e análise de dados
+
+Experiência na criação de formulários, controles, planilhas, relatórios e painéis para apoiar a organização de treinamentos e rotinas operacionais. Exemplos públicos poderão ser adicionados sem informações confidenciais.
+
+## 💻 Tecnologias e ferramentas
+
+- **Front-end:** React.js, JavaScript, TypeScript, Tailwind CSS.
+- **Back-end:** Node.js e Express.js.
+- **Bancos de dados:** MySQL e PostgreSQL.
+- **Infraestrutura e desenvolvimento:** Docker, Drizzle ORM, Git, GitHub e VS Code.
+- **Dados e produtividade:** Excel avançado, Access e Power BI.
+
+> As tecnologias acima representam conhecimentos aplicados em projetos ou formação, com níveis de experiência que variam conforme a ferramenta.
+
+## 🎯 Áreas de atuação e interesse
+
+Desenvolvimento de sistemas web • Automação e modernização de processos • Sistemas de gestão • Análise de dados • Operações e tecnologia aplicada a negócios.
 
 ## 📫 Contato
 
 - **LinkedIn:** [Eudes Loureiro Fontes](https://www.linkedin.com/in/eudes-loureiro-fontes-33047977)
 - **E-mail:** [eudes_fontes@outlook.com](mailto:eudes_fontes@outlook.com)
+- **GitHub:** [github.com/eudeslf](https://github.com/eudeslf)
 
 ---
 
-*Em constante aprendizado, transformando desafios de gestão em oportunidades de criar soluções digitais.*
+*Transformando necessidades operacionais em soluções digitais.*
